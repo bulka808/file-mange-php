@@ -78,7 +78,7 @@ $forbiddenMimes = [
 ];
 $forbiddenExtensions = ['php', 'phtml', 'phar', 'sh', 'exe', 'bat', 'cmd', 'js', 'html', 'htm', 'asp', 'aspx'];
 $maxSize = 500 * 1024 * 1024; // 500 МБ 
-//TODO написать в документации о том , что надо менять в php ini(post_max_size, upload_max_filesize)
+
 
 // ===== Настройки БД ===== //
 // заменить если отличается + см. db.sql
